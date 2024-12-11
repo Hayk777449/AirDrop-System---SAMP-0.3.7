@@ -1,13 +1,9 @@
-# SAMP-AirDrop-System
-An airdrop system for SA:MP made using ColAndreas !
-# Usage
-So easy, just change AirDropTime and AfterDropDestroyTimer, done !
-## Special thanks to
-incognito for streamer plugin
-[uL]Slice for ColAndreas
-[uL]Chris420 for ColAndreas
-[uL]Pottus for ColAndreas
-Zeex for zcmd
-Mobako & Betamaster & Simon & Cueball for a_zones
+# AirDrop System - SAMP 0.3.7 #
 
-### Please don't remove credits
+Hello, dear reader. 
+I wrote this system myself, it is convenient - you just need to configure it for your mod. 
+Thank you for your attention, do not forget to add this topic to your favorites!
+
+# Developer: N. Scarfo
+
+# Don't remove these credits!
